@@ -1,6 +1,6 @@
 # Infotainment System
 
-*A modern in-car infotainment front-end developed with Qt/QML & C++*
+*A modern in-car infotainment GUI developed with Qt/QML & C++*
 
 ## Table of Contents
 
@@ -90,10 +90,23 @@ As part of the broader “ecoDrive”  ecosystem (my graduation project), this f
 
 ## Team & Contribution
 
-This project is led by **Mohab** as part of the graduation work at [AMIT Scholarship with Orange Digital Center].
-Team members are Youssef Mahmoud and Seif Eldeen.
-Contributions are welcome — please fork and submit pull-requests. Ensure coding conventions (commented C++ code, organized QML, consistent styling) and add test coverage where feasible.
+- **Project Lead:** Mohab  
+  - Leading this project as part of the graduation work under the **AMIT Embedded Linux Diploma Scholarship with Orange Digital Center (ODC)**.
 
+- **Team Members:**  
+  - Youssef Mahmoud  
+  - Seif Eldeen  
+
+- **Contributions:**  
+  - Contributions are welcome! To contribute:  
+    - Fork the repository  
+    - Create a feature branch (e.g., `feature/improve-ui`)  
+    - Follow coding conventions:  
+      - Well-commented C++ code  
+      - Organized QML files  
+      - Consistent styling  
+    - Add test coverage where possible  
+    - Submit a pull request for review 
 ---
 
 
